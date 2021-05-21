@@ -3,7 +3,7 @@
 
   ![Abreham certificate](./certificate.png)
 
-  <h2>My Takeaways</h2>
+  <h2>Takeaway notes</h2>
 
   Learned how to create elements without React using  DOM manipulation. 
 
@@ -13,10 +13,11 @@
 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <h2>Default readme</h2>
 
   <strong>
     Learn the foundational concepts necessary for building
