@@ -3,6 +3,21 @@
 
   ![Abreham certificate](./certificate.png)
 
+  <h2>My Takeaways</h2>
+
+  Learned how to create elements without React using  DOM manipulation. 
+
+  <strong>React.createElement </strong> - Learned how react constructs components under the hood using createElement. Learned how to use that and nest children components. Babel is responsible for transpiling JSX into JS and HTML
+
+  <strong>Key prop  </strong> - learned that react used array index by default, should only be unique in the array, react used keys to track which component got updated,deleted and added.
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
   <strong>
     Learn the foundational concepts necessary for building
     React applications and libraries
