@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"><a href="https://epicreact.dev/fundamentals">React Fundamentals 🚀 EpicReact.Dev</a></h1>
 
-  ![Abreham certificate](https://drive.google.com/file/d/1ljQbX9ib4AN8bvJw3oO3nDJ7-tnTcF-E/view)
+  ![Abreham certificate](certificate.png)
 
   <strong>
     Learn the foundational concepts necessary for building
